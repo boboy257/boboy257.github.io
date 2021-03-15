@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Kelly+Slab&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    background: url(webku/background1.jpg) no-repeat;
+    background-size: cover;
+}
+
+.box {
+    width: 450;
+    background: rgba(red, green, blue, alpha);
+    text-align: left;
+    padding: 40px;
+    margin: auto;
+    margin-left: 3%;
+    margin-top: 0%;
+    color: white;
+    font-family: sans-serif;
+    border: 4px;
+}
+.box-img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+
+}
+.box-h1{
+    font-family: 'Kelly Slab', cursive;
+}
+.box-renang{
+    width: 450;
+    height: 300px;
+    padding: auto;
+    margin-left: 1%;
+}

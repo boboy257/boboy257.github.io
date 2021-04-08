@@ -127,3 +127,12 @@ footer {
     background-color: rgb(2, 160, 160);
     color: #fff;
 }
+.bendera-img{
+    width: 100px;
+    padding: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
